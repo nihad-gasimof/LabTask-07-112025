@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\LabTask071125.exe
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\LabTask071125.deps.json
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\LabTask071125.runtimeconfig.json
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\LabTask071125.dll
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\LabTask071125.pdb
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask0.95C6AF35.Up2Date
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.dll
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\refint\LabTask071125.dll
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.pdb
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\LabTask071125.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\LabTask071125\LabTask071125\obj\Debug\net9.0\ref\LabTask071125.dll
